@@ -6,5 +6,5 @@ Instructions:
 2. Add the bundled chromedriver instance to your PATH.
 
 Run with:
-`<path-to-pytest-executable> ./"
+`<path-to-pytest-executable> ./`
 For stdout add -s as an extra command line parameter.
